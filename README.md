@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/Mohi_ABa
 - ⚡ Fun fact: lives today , maybe tomorrow is undefined
 
-i'm try learn new someting and create document for everything i learning 
-build web project , 
+
 
 # 😎 
 <!-- First Row -->
