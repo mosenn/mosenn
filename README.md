@@ -19,6 +19,5 @@ i'm try learn new someting and create document for everything i learning
 build web project , 
 
 # my knowleg : 
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-'/>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
  CSS > Respnsive > bootstrap > Javascript > restfulapi > git > github > React > reduxtollkit > typescript > TailwindCss > Nextjs > unit test >  nodejs > mongodb > expressjs > nestjs > prisma > postregsSql 
