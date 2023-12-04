@@ -34,10 +34,10 @@ build web project ,
   <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white'/>
   <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
   <img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white'/>
-</div>
+
 
 <!-- Second Row -->
-<div>
+
   <img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black'/>
   <img src='https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white'/>
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
