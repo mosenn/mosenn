@@ -19,6 +19,6 @@ i'm try learn new someting and create document for everything i learning
 build web project , 
 
 # my knowleg : 
-![download](https://github.com/mosenn/mosenn/assets/91747908/db47c7c3-5400-40cc-9a17-2f4c7cc8cbfc)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
  CSS > Respnsive > bootstrap > Javascript > restfulapi > git > github > React > reduxtollkit > typescript > TailwindCss > Nextjs > unit test >  nodejs > mongodb > expressjs > nestjs > prisma > postregsSql 
