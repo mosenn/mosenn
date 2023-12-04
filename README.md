@@ -1,3 +1,6 @@
+
+<link href="node_modules/@exuanbo/file-icons-js/dist/css/file-icons-cdn.min.css" rel="stylesheet">
+
 ### Hi there 👋
 
 
@@ -16,5 +19,6 @@ i'm try learn new someting and create document for everything i learning
 build web project , 
 
 # my knowleg : 
-<i id="file-icon" class="icon html5-icon medium-red"></i>
+![download](https://github.com/mosenn/mosenn/assets/91747908/db47c7c3-5400-40cc-9a17-2f4c7cc8cbfc)
+
  CSS > Respnsive > bootstrap > Javascript > restfulapi > git > github > React > reduxtollkit > typescript > TailwindCss > Nextjs > unit test >  nodejs > mongodb > expressjs > nestjs > prisma > postregsSql 
