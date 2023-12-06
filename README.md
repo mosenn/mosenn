@@ -52,4 +52,3 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white'/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosenn)](https://github.com/anuraghazra/github-readme-stats)
