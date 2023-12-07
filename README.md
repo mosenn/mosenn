@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 <br/>
 <div style="display: flex; flex-direction: row;">
     <img  src="https://github-readme-stats.vercel.app/api?username=mosenn&show_icons=true&theme=github_dark_dimmed" alt="Anurag's GitHub stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=compact" alt="Top Languages">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=compact" alt="Top Languages" style="margin-bottom: 20px">
 </div>
