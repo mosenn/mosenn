@@ -52,4 +52,9 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white'/>
 </div>
 
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mosenn)](https://github.com/anuraghazra/github-readme-stats)
+</div>
