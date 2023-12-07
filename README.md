@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosenn&show_icons=true&theme=Showingadditionalstats)
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mosenn)](https://github.com/anuraghazra/github-readme-stats)
