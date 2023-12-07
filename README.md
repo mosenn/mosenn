@@ -58,3 +58,4 @@ Here are some ideas to get you started:
   
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mosenn)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mosenn)](https://github.com/anuraghazra/github-readme-stats)
