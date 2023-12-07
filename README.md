@@ -55,13 +55,6 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; flex-direction: row;">
-
-  <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=mosenn&show_icons=true&theme=github_dark_dimmed" alt="Anurag's GitHub stats">
-  </div>
-  
-  <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=compact" alt="Top Languages">
-  </div>
-
 </div>
