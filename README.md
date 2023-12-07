@@ -52,13 +52,7 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white'/>
 </div>
 
-<div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosenn&show_icons=true&theme=github_dark_dimmed)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosenn&layout=compact)
-
-</div>
 
 <div style="display: flex; flex-direction: row;">
 
