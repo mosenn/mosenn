@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nestjs document
-- 🌱 I’m currently learning nestjs
+- 🔭 if you think can i help you for learning or projects contanct me .
+- 🌱 I’m working on to someting else
 
 - 💬 Ask me about ...
 - 📫 How to reach me: https://t.me/Mohi_ABa
